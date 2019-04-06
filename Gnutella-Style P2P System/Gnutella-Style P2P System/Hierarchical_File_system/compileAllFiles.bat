@@ -1,0 +1,1 @@
+javac src/com/pa3/rmiinterface/*.java src/com/pa3/client/*.java src/com/pa3/server/*.java src/com/pa3/superClient/*.java src/com/pa3/scheduler/*.java
